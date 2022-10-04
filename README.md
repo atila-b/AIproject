@@ -102,5 +102,5 @@ As seguintes pessoas contribuíram para este projeto:
 </table>
 
 ## Referências
-- {The Office Scheduling Problem}(https://easychair.org/publications/preprint_open/7krz)
+- [The Office Scheduling Problem](https://easychair.org/publications/preprint_open/7krz)
 
